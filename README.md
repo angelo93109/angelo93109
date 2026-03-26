@@ -5,8 +5,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=angelo93109&show_icons=true&locale=en&rank_icon=github)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angelo93109)
 
 </div>
